@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Dr Sarah Campbell
   pic: 1
-  position: Lead Designer
+  position: CEO
   social:
     - title: twitter
       url: #
@@ -22,7 +22,7 @@ people:
 
 - name: Matt Thurling
   pic: 2
-  position: Lead Marketer
+  position: CTO
   social:
     - title: twitter
       url: #
@@ -31,9 +31,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Eric Dolphy
+- name: Erica Dolphy
   pic: 3
-  position: Lead Developer
+  position: CMO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Robyn Chang
+  pic: 4
+  position: CFO
   social:
     - title: twitter
       url: #
