@@ -1,0 +1,15 @@
+.panel {
+  background-color: #f7f7f7;
+}
+
+.equal {  
+  display: -webkit-flex;
+  display: flex;
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
